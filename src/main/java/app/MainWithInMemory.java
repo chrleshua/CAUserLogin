@@ -69,6 +69,6 @@ public class MainWithInMemory {
         viewManagerModel.firePropertyChanged();
 
         application.pack();
-        application.setVisible(true); //dwedw
+        application.setVisible(true);
     }
 }
